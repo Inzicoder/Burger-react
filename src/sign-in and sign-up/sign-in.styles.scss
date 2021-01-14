@@ -1,0 +1,22 @@
+.sign-in{
+    width: 380px;
+display: flex;
+flex-direction: column;
+
+
+.title{
+    margin:10px 0;
+}    
+
+.buttons{
+    background-color:rgb(100,89,215);
+    color:#fff;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    &:hover{
+        color:rgb(100,20,180)
+    }
+}
+  }
